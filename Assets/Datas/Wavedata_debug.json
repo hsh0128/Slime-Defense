@@ -1,0 +1,68 @@
+{
+    "waves": [
+		{
+			"key": 1,
+			"counts": 10,
+			"slimeInfos": [
+				{
+					"slime": "ElecSlime",
+					"slimeCount": 10
+			   }
+			]
+ 		},
+		{
+			"key": 2,
+			"counts": 15,
+			"slimeInfos": [
+				{
+					"slime": "ElecSlime",
+					"slimeCount": 5
+			   },
+			   {
+				   "slime": "ElectricTauntSlime",
+				   "slimeCount": 5
+			   },
+			   {
+				   "slime": "ElecPowerSlime",
+				   "slimeCount": 5
+			   }
+			]
+ 		},
+		{
+			"key": 3,
+			"counts": 15,
+			"slimeInfos": [
+				{
+					"slime": "ElecSlime",
+					"slimeCount": 5
+			   },
+			   {
+				   "slime": "ElectricTauntSlime",
+				   "slimeCount": 5
+			   },
+			   {
+				   "slime": "ElecPowerSlime",
+				   "slimeCount": 5
+			   }
+			]
+ 		},
+		{
+			"key": 4,
+			"counts": 15,
+			"slimeInfos": [
+				{
+					"slime": "ElecSlime",
+					"slimeCount": 5
+			   },
+			   {
+				   "slime": "ElectricTauntSlime",
+				   "slimeCount": 5
+			   },
+			   {
+				   "slime": "ElecPowerSlime",
+				   "slimeCount": 5
+			   }
+			]
+ 		}
+    ]
+}

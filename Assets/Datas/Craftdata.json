@@ -1,0 +1,84 @@
+{
+    "datas": [
+        {
+            "key": 0,
+            "counts": 3,
+            "queries": [
+                {
+                    "identityType": "rank_same",
+                    "rank": "D",
+                    "counts": 3
+                }
+            ],
+            "results": [
+                "SoldierTurret",
+                "ImpTurret",
+                "FlaskTurret"
+            ]
+        },
+        {
+            "key": 1,
+            "counts": 3,
+            "queries": [
+                {
+                    "identityType": "rank_same",
+                    "rank": "C",
+                    "counts": 3
+                }
+            ],
+            "results": [
+                "TankTurret",
+                "ElectricTurret",
+                "TreeTurret"
+            ]
+        },
+        {
+            "key": 2,
+            "counts": 3,
+            "queries": [
+                {
+                    "identityType": "rank_same",
+                    "rank": "B",
+                    "counts": 3
+                }
+            ],
+            "results": [
+                "GravityTurret",
+                "AirplaneTurret",
+                "DragonTurret"
+            ]
+        },
+        {
+            "key": 4,
+            "counts": 4,
+            "queries": [
+                {
+                    "identityType": "rank_same",
+                    "index": 0,
+                    "counts": 1
+                },
+                {
+                    "identityType": "index",
+                    "index": 1,
+                    "counts": 1
+                },
+                {
+                    "identityType": "index",
+                    "index": 2,
+                    "counts": 1
+                },
+                {
+                    "identityType": "index",
+                    "index": 3,
+                    "counts": 1
+                }
+            ],
+            "results": [
+                "testTurret",
+                "testTurret2",
+                "testTurret3",
+                "BaseTurretTest"
+            ]
+        }
+    ]
+}

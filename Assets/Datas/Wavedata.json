@@ -1,0 +1,548 @@
+{
+    "waves": [
+		{
+			"key": 1,
+			"counts": 10,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 10
+				}
+			]
+ 		},
+		{
+			"key": 2,
+			"counts": 20,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 20
+				}
+			]
+ 		},
+		{
+			"key": 3,
+			"counts": 30,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 30
+				}
+			]
+ 		},
+		{
+			"key": 4,
+			"counts": 35,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 20
+				},
+                {
+                    "slime": "BaseTauntSlime",
+                    "slimeCount": 15
+                }
+			]
+ 		},
+		{
+			"key": 5,
+			"counts": 45,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 25
+				},
+                {
+                    "slime": "BaseTauntSlime",
+                    "slimeCount": 20
+                }
+			]
+ 		},
+		{
+			"key": 6,
+			"counts": 60,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 35
+				},
+                {
+                    "slime": "BaseTauntSlime",
+                    "slimeCount": 25
+                }
+			]
+ 		},
+		{
+			"key": 7,
+			"counts": 70,
+			"slimeInfos": [
+ 				{
+					 "slime": "BaseSlime",
+					 "slimeCount": 30
+				},
+				{
+					"slime": "BaseTauntSlime",
+					"slimeCount": 25
+				},
+				{
+					"slime": "BasePowerSlime",
+					"slimeCount": 15
+				}
+			]
+ 		},
+		{
+			"key": 8,
+			"counts": 80,
+			"slimeInfos": [
+				{
+					"slime": "BaseSlime",
+					"slimeCount": 30
+			   },
+			   {
+				   "slime": "BaseTauntSlime",
+				   "slimeCount": 25
+			   },
+			   {
+				   "slime": "BasePowerSlime",
+				   "slimeCount": 25
+			   }
+		   ]
+ 		},
+		{
+			"key": 9,
+			"counts": 100,
+			"slimeInfos": [
+				{
+					"slime": "BaseSlime",
+					"slimeCount": 30
+			   },
+			   {
+				   "slime": "BaseTauntSlime",
+				   "slimeCount": 30
+			   },
+			   {
+				   "slime": "BasePowerSlime",
+				   "slimeCount": 40
+			   }
+		   ]
+ 		},
+		{
+			"key": 10,
+			"counts": 1,
+			"slimeInfos": [
+ 				{
+					 "slime": "BunchSlime",
+					 "slimeCount": 1
+				}
+			]
+ 		},
+		{
+			"key": 11,
+			"counts": 10,
+			"slimeInfos": [
+ 				{
+					 "slime": "ArmorSlimePawn",
+					 "slimeCount": 10
+				}
+			]
+ 		},
+		{
+			"key": 12,
+			"counts": 20,
+			"slimeInfos": [
+ 				{
+					 "slime": "ArmorSlimePawn",
+					 "slimeCount": 20
+				}
+			]
+ 		},
+		{
+			"key": 13,
+			"counts": 30,
+			"slimeInfos": [
+ 				{
+					 "slime": "ArmorSlimePawn",
+					 "slimeCount": 30
+				}
+			]
+ 		},
+		{
+			"key": 14,
+			"counts": 35,
+			"slimeInfos": [
+ 				{
+					 "slime": "ArmorSlimePawn",
+					 "slimeCount": 20
+				},
+				{
+					"slime": "ArmorTauntSlime",
+					"slimeCount": 15
+				}
+			]
+ 		},
+		{
+			"key": 15,
+			"counts": 45,
+			"slimeInfos": [
+				{
+					"slime": "ArmorSlimePawn",
+					"slimeCount": 25
+			   },
+			   {
+				   "slime": "ArmorTauntSlime",
+				   "slimeCount": 20
+			   }
+		   ]
+ 		},
+		{
+			"key": 16,
+			"counts": 60,
+			"slimeInfos": [
+				{
+					"slime": "ArmorSlimePawn",
+					"slimeCount": 35
+			   },
+			   {
+				   "slime": "ArmorTauntSlime",
+				   "slimeCount": 25
+			   }
+		   ]
+ 		},
+		{
+			"key": 17,
+			"counts": 70,
+			"slimeInfos": [
+ 				{
+					 "slime": "ArmorSlimePawn",
+					 "slimeCount": 30
+				},
+				{
+					"slime": "ArmorTauntSlime",
+					"slimeCount": 25
+				},
+				{
+					"slime": "ArmorPowerSlime",
+					"slimeCount": 15
+				}
+			]
+ 		},
+		{
+			"key": 18,
+			"counts": 80,
+			"slimeInfos": [
+				{
+					"slime": "ArmorSlimePawn",
+					"slimeCount": 30
+			   },
+			   {
+				   "slime": "ArmorTauntSlime",
+				   "slimeCount": 25
+			   },
+			   {
+				   "slime": "ArmorPowerSlime",
+				   "slimeCount": 25
+			   }
+		   ]
+ 		},
+		{
+			"key": 19,
+			"counts": 100,
+			"slimeInfos": [
+				{
+					"slime": "ArmorSlimePawn",
+					"slimeCount": 30
+			   },
+			   {
+				   "slime": "ArmorTauntSlime",
+				   "slimeCount": 30
+			   },
+			   {
+				   "slime": "ArmorPowerSlime",
+				   "slimeCount": 40
+			   }
+		   ]
+ 		},
+		{
+			"key": 20,
+			"counts": 1,
+			"slimeInfos": [
+ 				{
+					 "slime": "ArmorSlime",
+					 "slimeCount": 1
+				}
+			]
+ 		},
+		{
+			"key": 21,
+			"counts": 10,
+			"slimeInfos": [
+ 				{
+					 "slime": "BabySlime",
+					 "slimeCount": 10
+				}
+			]
+ 		},
+		{
+			"key": 22,
+			"counts": 20,
+			"slimeInfos": [
+ 				{
+					 "slime": "BabySlime",
+					 "slimeCount": 20
+				}
+			]
+ 		},
+		{
+			"key": 23,
+			"counts": 30,
+			"slimeInfos": [
+ 				{
+					 "slime": "BabySlime",
+					 "slimeCount": 30
+				}
+			]
+ 		},
+		{
+			"key": 24,
+			"counts": 35,
+			"slimeInfos": [
+ 				{
+					 "slime": "BabySlime",
+					 "slimeCount": 20
+				},
+				{
+					"slime": "BabyTauntSlime",
+					"slimeCount": 15
+				}
+			]
+ 		},
+		{
+			"key": 25,
+			"counts": 45,
+			"slimeInfos": [
+				{
+					"slime": "BabySlime",
+					"slimeCount": 25
+			   	},
+			   	{
+				   "slime": "BabyTauntSlime",
+				   "slimeCount": 20
+			   	}
+		   ]
+ 		},
+		{
+			"key": 26,
+			"counts": 60,
+			"slimeInfos": [
+				{
+					"slime": "BabySlime",
+					"slimeCount": 35
+			   	},
+			   	{
+				   "slime": "BabyTauntSlime",
+				   "slimeCount": 25
+			   	}
+		   ]
+ 		},
+		{
+			"key": 27,
+			"counts": 70,
+			"slimeInfos": [
+				{
+					"slime": "BabySlime",
+					"slimeCount": 30
+			   	},
+			   	{
+				   "slime": "BabyTauntSlime",
+				   "slimeCount": 25
+			   	},
+				{
+					"slime": "BabyPowerSlime",
+					"slimeCount": 15
+				}
+		   ]
+ 		},
+		{
+			"key": 28,
+			"counts": 80,
+			"slimeInfos": [
+				{
+					"slime": "BabySlime",
+					"slimeCount": 30
+			   	},
+			   	{
+				   "slime": "BabyTauntSlime",
+				   "slimeCount": 25
+			   	},
+				{
+					"slime": "BabyPowerSlime",
+					"slimeCount": 25
+				}
+		   ]
+ 		},
+		{
+			"key": 29,
+			"counts": 100,
+			"slimeInfos": [
+				{
+					"slime": "BabySlime",
+					"slimeCount": 30
+			   	},
+			   	{
+				   "slime": "BabyTauntSlime",
+				   "slimeCount": 30
+			   	},
+				{
+					"slime": "BabyPowerSlime",
+					"slimeCount": 40
+				}
+		   ]
+ 		},
+		{
+			"key": 30,
+			"counts": 1,
+			"slimeInfos": [
+ 				{
+					"slime": "SummonSlime",
+					"slimeCount": 1
+				}
+			]
+ 		},
+		{
+			"key": 31,
+			"counts": 10,
+			"slimeInfos": [
+ 				{
+					"slime": "ElecSlime",
+					"slimeCount": 10
+				}
+			]
+ 		},
+		{
+			"key": 32,
+			"counts": 20,
+			"slimeInfos": [
+ 				{
+					"slime": "ElecSlime",
+					"slimeCount": 20
+				}
+			]
+ 		},
+		{
+			"key": 33,
+			"counts": 30,
+			"slimeInfos": [
+ 				{
+					 "slime": "ElecSlime",
+					 "slimeCount": 30
+				}
+			]
+ 		},
+		{
+			"key": 34,
+			"counts": 35,
+			"slimeInfos": [
+				{
+				   "slime": "ElecSlime",
+				   "slimeCount": 20
+			   	},
+				{
+					"slime": "ElectricTauntSlime",
+					"slimeCount": 15
+				}
+		   	]
+ 		},
+		{
+			"key": 35,
+			"counts": 45,
+			"slimeInfos": [
+				{
+				   "slime": "ElecSlime",
+				   "slimeCount": 25
+			   	},
+				{
+					"slime": "ElectricTauntSlime",
+					"slimeCount": 20
+				}
+		   	]
+ 		},
+		{
+			"key": 36,
+			"counts": 60,
+			"slimeInfos": [
+				{
+				   "slime": "ElecSlime",
+				   "slimeCount": 35
+			   	},
+				{
+					"slime": "ElectricTauntSlime",
+					"slimeCount": 25
+				}
+		   	]
+ 		},
+		{
+			"key": 37,
+			"counts": 70,
+			"slimeInfos": [
+				{
+				   "slime": "ElecSlime",
+				   "slimeCount": 30
+			   	},
+				{
+					"slime": "ElectricTauntSlime",
+					"slimeCount": 25
+				},
+				{
+					"slime": "ElecPowerSlime",
+					"slimeCount": 15
+				}
+		   	]
+ 		},
+		{
+			"key": 38,
+			"counts": 80,
+			"slimeInfos": [
+				{
+				   "slime": "ElecSlime",
+				   "slimeCount": 30
+			   	},
+				{
+					"slime": "ElectricTauntSlime",
+					"slimeCount": 25
+				},
+				{
+					"slime": "ElecPowerSlime",
+					"slimeCount": 25
+				}
+		   	]
+ 		},
+		{
+			"key": 39,
+			"counts": 100,
+			"slimeInfos": [
+				{
+				   "slime": "ElecSlime",
+				   "slimeCount": 30
+			   	},
+				{
+					"slime": "ElectricTauntSlime",
+					"slimeCount": 30
+				},
+				{
+					"slime": "ElecPowerSlime",
+					"slimeCount": 40
+				}
+		   	]
+ 		},
+		{
+			"key": 40,
+			"counts": 1,
+			"slimeInfos": [
+ 				{
+					"slime": "AtomSlime",
+					"slimeCount": 1
+				}
+			]
+ 		}
+    ]
+}

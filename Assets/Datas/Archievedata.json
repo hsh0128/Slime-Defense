@@ -1,0 +1,162 @@
+{
+    "turretMissions": [
+        {
+            "desc": "D랭크 5개 보유",
+            "conditions": [
+                {
+                    "type": "rank",
+                    "rank": "D",
+                    "count": 5
+                }
+            ],
+            "reward": 5,
+            "maxprogress": 5
+        },
+        {
+            "desc":"C랭크 5개 보유",
+            "conditions": [
+                {
+                    "type": "rank",
+                    "rank": "C",
+                    "count": 5
+                }
+            ],
+            "reward": 5,
+            "maxprogress": 5
+        },
+        {
+            "desc": "B랭크 5개 보유",
+            "conditions": [
+                {
+                    "type": "rank",
+                    "rank": "B",
+                    "count": 5
+                }
+            ],
+            "reward": 10,
+            "maxprogress": 5
+        },
+        {
+            "desc": "A랭크 5개 보유",
+            "conditions": [
+                {
+                    "type": "rank",
+                    "rank": "A",
+                    "count": 5
+                }
+            ],
+            "reward": 15,
+            "maxprogress": 5
+        },
+        {
+            "desc": "탱크, 보병, 전투기 터렛 보유",
+            "conditions": [
+                {
+                    "type": "index",
+                    "index": 1,
+                    "count": 1
+                },
+                {
+                    "type": "index",
+                    "index": 2,
+                    "count": 1
+                },
+                {
+                    "type": "index",
+                    "index": 12,
+                    "count": 1
+                }
+            ],
+            "reward": 10,
+            "maxprogress": 3
+        },
+        {
+            "desc": "전기, 플라스크, 중력 터렛 보유",
+            "conditions": [
+                {
+                    "type": "index",
+                    "index": 3,
+                    "count": 1
+                },
+                {
+                    "type": "index",
+                    "index": 8,
+                    "count": 1
+                },
+                {
+                    "type": "index",
+                    "index": 11,
+                    "count": 1
+                }
+            ],
+            "reward": 10,
+            "maxprogress": 3
+        },
+        {
+            "desc": "세계수, 임프, 용 터렛 보유",
+            "conditions": [
+                {
+                    "type": "index",
+                    "index": 7,
+                    "count": 1
+                },
+                {
+                    "type": "index",
+                    "index": 9,
+                    "count": 1
+                },
+                {
+                    "type": "index",
+                    "index": 10,
+                    "count": 1
+                }
+            ],
+            "reward": 10,
+            "maxprogress": 3
+        }
+    ],
+    "slimeKillMissions": [
+        {
+            "type": "all",
+            "desc": "슬라임 250마리 처치",
+            "count": 250,
+            "reward": 5
+        },
+        {
+            "type": "all",
+            "desc": "슬라임 500마리 처치",
+            "count": 500,
+            "reward": 10
+        },
+        {
+            "type": "all",
+            "desc": "슬라임 750마리 처치",
+            "count": 750,
+            "reward": 10
+        },
+        {
+            "type": "all",
+            "desc": "슬라임 1000마리 처치",
+            "count": 1000,
+            "reward": 10
+        },
+        {
+            "type": "all",
+            "desc": "슬라임 1250마리 처치",
+            "count": 1250,
+            "reward": 15
+        },
+        {
+            "type": "all",
+            "desc": "슬라임 1500마리 처치",
+            "count": 1500,
+            "reward": 15
+        },
+        {
+            "type": "all",
+            "desc": "슬라임 1750마리 처치",
+            "count": 1750,
+            "reward": 15
+        }
+    ]
+}
